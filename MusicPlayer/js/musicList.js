@@ -54,7 +54,7 @@ let playList=[
         liked:false    
     },
     {
-        id:10,
+        id:6,
         musicName:"Faded",
         img:"images/faded.jpg",
         artistName:"ft. Allan Walker",
@@ -63,7 +63,7 @@ let playList=[
         liked:false    
     },
     {
-        id:6,
+        id:7,
         musicName:"The Spectre",
         img:"images/spectreAllanWalker.png",
         artistName:"ft. Allan Walker",
@@ -72,7 +72,7 @@ let playList=[
         liked:false    
     },
     {
-        id:7,
+        id:8,
         musicName:"Janji - Herous Tonight",
         img:"images/janjiHeroes.jpg",
         artistName:"feat. Johnning",
@@ -81,7 +81,7 @@ let playList=[
         liked:false    
     },
     {
-        id:8,
+        id:9,
         musicName:"Places Like That",
         img:"images/placeLikeThis.jpg",
         artistName:"&ltunknown&gt",
